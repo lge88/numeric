@@ -1,0 +1,14 @@
+{
+  "name": "numeric",
+  "repo": "lge88/numeric",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lge88/numeric.git"
+  },
+  "_upstream": "https://github.com/sloisel/numeric.git",
+  "_doc": "http://numericjs.com/numeric/documentation.html",
+  "scripts": [
+    "lge-build/numeric.js"
+  ],
+  "main": "lge-build/numeric.js"
+}
